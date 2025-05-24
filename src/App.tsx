@@ -14,7 +14,7 @@ function App() {
         Esta aplicación es de código abierto y está disponible en GitHub.
       </p>
       <section className="features">
-        <a href="./download/Notes.apk" download className="download-button">
+        <a href="/Notes.apk" download className="download-button">
           <p>Descargar APK</p>
           <img src={Download} alt="Download Icon" className="download-logo" />
         </a>
