@@ -22,7 +22,7 @@ function App() {
         <a
           className="download-button"
           target="_blank"
-          href="https://github.com/KamitoHidaka/HentaiNotes"
+          href="https://github.com/KamitoHidaka/Notes"
         >
           <img src={GithubLogo} alt="Github Logo" className="github-logo" />
           <p>Github</p>
